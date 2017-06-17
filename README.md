@@ -1,2 +1,2 @@
-# Battleships
-The popular battleships game in C++ for my OOP class.
+# School
+A simple school project I built for my OOP class.
